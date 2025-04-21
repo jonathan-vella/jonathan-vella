@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/jonathan-vella.png" alt="Your Awesome Avatar" width="200"/>
   <h1>
     Greetings, Digital Explorer! 👋 I am Jonathan Vella.
   </h1>
