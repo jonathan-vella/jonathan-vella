@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="Jonathan Vella"/>
-</p>
 
 <h1 align="center">Greetings, Digital Explorer! 👋 I am Jonathan Vella.</h1>
 
