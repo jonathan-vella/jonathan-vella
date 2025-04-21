@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathanvella/">LinkedIn</a> •
-  <a href="https://github.com/jonathan-vella">GitHub</a>
+  <a href="https://jonathan-vella.github.io/">GitHub</a>
 </p>
 
 ---
