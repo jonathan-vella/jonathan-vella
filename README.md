@@ -58,8 +58,6 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 When I'm not architecting in the cloud, you might find me exploring retro video games, experimenting with home automation, or trying to convince my coffee machine to run on Azure Functions!
 
-...existing code...
-
 ---
 
 > "Cloud computing is not about saving money, it's about spending money wisely on a platform that allows you to innovate faster."  
