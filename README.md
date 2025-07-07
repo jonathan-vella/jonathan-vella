@@ -50,8 +50,9 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
-- Microsoft Certified: DevOps Engineer Expert
-
+- Microsoft Certified: Identity and Access Administrator Associate
+- GitHub Copilot
+   
 ---
 
 ## 🎲 Fun Fact
