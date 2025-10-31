@@ -41,18 +41,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=jonathan-vella&show_icons=true&theme=azure&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4&text_color=FFFFFF" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-vella&theme=dark&hide_border=true&background=0D1117&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=azure&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF" alt="Top Languages" />
-
----
-
 ## 🏆 GitHub Trophies
 
 <p align="center">
