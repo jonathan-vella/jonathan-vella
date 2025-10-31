@@ -26,18 +26,18 @@
 
 ## 📑 Table of Contents
 
-- [📊 GitHub Stats & Activity](#github-stats-activity)
-- [🏆 GitHub Trophies](#github-trophies)
-- [🚀 Current Mission: Partner Success!](#current-mission-partner-success)
-- [🛠️ Arsenal of Choice](#arsenal-of-choice)
-- [💪 Skills & Expertise](#skills-expertise)
-- [📂 Featured Projects](#featured-projects)
-- [📫 Connect with Me](#connect-with-me)
-- [🏅 Certifications](#certifications)
-- [🎲 Fun Fact](#fun-fact)
-- [💭 Quote of the Moment](#quote-of-the-moment)
-- [📈 Contribution Graph](#contribution-graph)
-- [🐍 Watch My Contribution Snake Eat My Commits!](#watch-my-contribution-snake-eat-my-commits)
+- [📊 GitHub Stats & Activity](#-github-stats--activity)
+- [🏆 GitHub Trophies](#-github-trophies)
+- [🚀 Current Mission: Partner Success!](#-current-mission-partner-success)
+- [🛠️ Arsenal of Choice](#️-arsenal-of-choice)
+- [💪 Skills & Expertise](#-skills--expertise)
+- [📂 Featured Projects](#-featured-projects)
+- [📫 Connect with Me](#-connect-with-me)
+- [🏅 Certifications](#-certifications)
+- [🎲 Fun Fact](#-fun-fact)
+- [💭 Quote of the Moment](#-quote-of-the-moment)
+- [📈 Contribution Graph](#-contribution-graph)
+- [🐍 Watch My Contribution Snake Eat My Commits!](#-watch-my-contribution-snake-eat-my-commits)
 
 ---
 
