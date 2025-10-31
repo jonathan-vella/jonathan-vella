@@ -51,8 +51,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=azure&hide_border=true&bg_color=0D1117&title_color=0078D4&text_color=FFFFFF" alt="Top Languages" />
 
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
