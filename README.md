@@ -51,7 +51,7 @@
 
 ## 🚀 Current Mission: Partner Success!
 
-My primary directive at Microsoft is to team up with our strategic partners and help them unlock the immense power of **Azure Core**. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
+My primary directive at Microsoft is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
 
 I spend my days (and sometimes nights, fueled by questionable amounts of caffeine ☕) diving deep into technical discussions, ensuring our partners can leverage Azure to its fullest potential. I troubleshoot anomalies 👾, strategize deployments, and act as a bridge between partner needs and Microsoft's cloud capabilities.
 
@@ -72,7 +72,7 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 ### Core Competencies
 
-- ☁️ **Azure Core:** Virtual Machines, Networking, Storage, Identity, and all the foundational magic that makes the cloud work.
+- ☁️ **Azure:** Compute, Networking, Storage, Identity, Kubernetes, App Services, Databases, Serverless, DevOps Tooling, Monitoring, and Security — the foundation for cloud-native, scalable, and enterprise-grade architectures.
 - 🤝 **Partner Enablement:** Helping others wield the power of Azure effectively.
 - 🗣️ **Technical Guidance & Architecture:** Translating complex technical concepts into understandable strategies.
 - 🛡️ **Governance & Best Practices:** Ensuring our cloud deployments are secure, compliant, and well-managed.
