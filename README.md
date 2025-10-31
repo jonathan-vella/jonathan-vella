@@ -29,7 +29,7 @@
 - [📊 GitHub Stats & Activity](#-github-stats--activity)
 - [🏆 GitHub Trophies](#-github-trophies)
 - [🚀 Current Mission: Partner Success!](#-current-mission-partner-success)
-- [🛠️ Arsenal of Choice](#️-arsenal-of-choice)
+- [🛠️ Arsenal of Choice](#-arsenal-of-choice)
 - [💪 Skills & Expertise](#-skills--expertise)
 - [📂 Featured Projects](#-featured-projects)
 - [📫 Connect with Me](#-connect-with-me)
