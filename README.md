@@ -72,11 +72,11 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 ### Core Competencies
 
-- ☁️ **Azure:** Compute, Networking, Storage, Identity, Kubernetes, App Services, Databases, Serverless, DevOps Tooling, Monitoring, and Security — the foundation for cloud-native, scalable, and enterprise-grade architectures.
-- 🤝 **Partner Enablement:** Helping others wield the power of Azure effectively.
-- 🗣️ **Technical Guidance & Architecture:** Translating complex technical concepts into understandable strategies.
-- 🛡️ **Governance & Best Practices:** Ensuring our cloud deployments are secure, compliant, and well-managed.
-- 📈 **Identifying Opportunities:** Spotting how partners can further leverage Microsoft technologies for growth.
+- ☁️ **Azure**: Compute, Networking, Storage, Identity, Kubernetes (AKS), App Services, Databases, Serverless (Functions, Logic Apps), DevOps Tooling, Monitoring, and Security — the foundation for scalable, resilient, and enterprise-grade architectures.
+- 🤝 **Partner Enablement**: Empowering teams and partners to harness Azure effectively through knowledge sharing, solution design, and hands-on guidance.
+- 🗣️ **Technical Leadership**: Translating complex technical concepts into actionable strategies, reference architectures, and best practices that drive business outcomes.
+- 🛡️ **Compliance**: Designing Zero Trust architectures, implementing governance at scale, and ensuring deployments are secure, compliant, and cost-optimized.
+- 📈 **Innovation Accelerator**: Unlock the full potential of Microsoft technologies — from AI and Data to Hybrid Cloud, FinOps, and beyond — driving scalable innovation and sustainable growth.
 
 ---
 
