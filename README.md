@@ -26,17 +26,17 @@
 
 ## 📑 Table of Contents
 
-- [🏆 GitHub Trophies](#-github-trophies)
+- [🏆 GitHub Achievements](#-github-achievements)
 - [📊 GitHub Stats & Activity](#-github-stats--activity)
 - [🚀 Current Mission: Partner Success!](#-current-mission-partner-success)
 - [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
 - [🛠️ Arsenal of Choice](#-arsenal-of-choice)
 - [💪 Skills & Expertise](#-skills--expertise)
 - [📂 Featured Projects](#-featured-projects)
-- [📫 Connect with Me](#-connect-with-me)
 - [📝 Latest Posts & Articles](#-latest-posts--articles)
 - [🏅 Certifications](#-certifications)
 - [🎲 Fun Fact](#-fun-fact)
+- [🤖 AI Corner](#-ai-corner-my-digital-philosophy)
 - [🎮 Secret Achievement](#-click-to-unlock-secret-achievement)
 - [💭 Quote of the Moment](#-quote-of-the-moment)
 - [📈 Contribution Graph](#-contribution-graph)
@@ -44,10 +44,24 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonathan-vella&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark-x2-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Pull Shark x2"/>
+  <img src="https://img.shields.io/badge/⭐_Starstruck-Unlocked-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Starstruck"/>
+  <img src="https://img.shields.io/badge/🎯_YOLO-Unlocked-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/👯_Pair_Extraordinaire-Unlocked-9B59B6?style=for-the-badge&labelColor=1a1a2e" alt="Pair Extraordinaire"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔑_Commits-1000+-28A745?style=for-the-badge&labelColor=1a1a2e" alt="Commits"/>
+  <img src="https://img.shields.io/badge/📦_Repositories-75+-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/👥_Followers-84-E91E63?style=for-the-badge&labelColor=1a1a2e" alt="Followers"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-80+-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Stars"/>
+</p>
+
+<p align="center">
+  <sub>🏅 <em>Achievements unlocked through open source contributions!</em></sub>
 </p>
 
 ---
@@ -174,26 +188,6 @@ Identity & Access     ███████████████████�
 
 ---
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathanvella/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/jonathan-vella">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://jonathan-vella.github.io/">
-    <img src="https://img.shields.io/badge/Website-Visit_Me-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</p>
-
-<p align="center">
-  <em>💼 For professional transmissions and network nodes | 💻 You are currently at the source code</em>
-</p>
-
----
-
 ## 📝 Latest Posts & Articles
 
 <p align="center">
@@ -260,6 +254,65 @@ When I'm not architecting in the cloud, you might find me:
 - 🎮 Exploring retro video games
 - 🏠 Experimenting with home automation
 - ☕ Trying to convince my coffee machine to run on Azure Functions!
+
+---
+
+## 🤖 AI Corner: My Digital Philosophy
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   🧠 "I don't replace infrastructure engineers with AI...      │
+│       I give them AI superpowers!"                              │
+│                                                                 │
+│   ⚡ Current AI Stack:                                          │
+│      ├── GitHub Copilot (my coding companion)                   │
+│      ├── Azure OpenAI (for the heavy thinking)                  │
+│      ├── Custom Copilot Agents (my digital minions)             │
+│      └── MCP Servers (because agents need tools too)            │
+│                                                                 │
+│   🎯 2026 AI Goals:                                             │
+│      □ Deploy 100+ agentic workflows                            │
+│      □ Train partners on AI-powered IaC                         │
+│      □ Build the laziest (most automated) infrastructure ever   │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Copilot_Agent-Architect-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Copilot Agent"/>
+  <img src="https://img.shields.io/badge/🧠_AI_Powered-InfraOps-9B59B6?style=for-the-badge&labelColor=1a1a2e" alt="AI InfraOps"/>
+  <img src="https://img.shields.io/badge/⚡_Agentic-Workflows-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="Agentic Workflows"/>
+</p>
+
+<details>
+<summary>💬 <strong>What would my AI twin say about infrastructure?</strong></summary>
+
+<br>
+
+```python
+def jonathan_ai_wisdom():
+    """
+    Simulating Jonathan's brain on infrastructure decisions...
+    """
+    principles = [
+        "If you're doing it twice, automate it",
+        "Bicep > clicking buttons in the portal",
+        "The best infrastructure is the one you don't have to think about",
+        "Every manual deployment is a bug waiting to happen",
+        "AI agents are not replacing us, they're our new teammates"
+    ]
+    
+    return random.choice(principles) + " ☁️"
+
+# Output: "Bicep > clicking buttons in the portal ☁️"
+```
+
+</details>
 
 ---
 
