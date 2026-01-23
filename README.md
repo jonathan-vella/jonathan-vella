@@ -26,15 +26,17 @@
 
 ## 📑 Table of Contents
 
-- [📊 GitHub Stats & Activity](#-github-stats--activity)
 - [🏆 GitHub Trophies](#-github-trophies)
+- [📊 GitHub Stats & Activity](#-github-stats--activity)
 - [🚀 Current Mission: Partner Success!](#-current-mission-partner-success)
+- [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
 - [🛠️ Arsenal of Choice](#-arsenal-of-choice)
 - [💪 Skills & Expertise](#-skills--expertise)
 - [📂 Featured Projects](#-featured-projects)
 - [📫 Connect with Me](#-connect-with-me)
 - [🏅 Certifications](#-certifications)
 - [🎲 Fun Fact](#-fun-fact)
+- [🎮 Secret Achievement](#-click-to-unlock-secret-achievement)
 - [💭 Quote of the Moment](#-quote-of-the-moment)
 - [📈 Contribution Graph](#-contribution-graph)
 - [🐍 Watch My Contribution Snake Eat My Commits!](#-watch-my-contribution-snake-eat-my-commits)
@@ -49,7 +51,20 @@
 
 ---
 
-## 🚀 Current Mission: Partner Success!
+## � GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-vella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
+</p>
+
+---
+
+## �🚀 Current Mission: Partner Success!
 
 My primary directive at Microsoft is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
 
@@ -57,7 +72,39 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 ---
 
-## 🛠️ Arsenal of Choice
+## � What I'm Currently Working On
+
+<table>
+  <tr>
+    <td>🤖</td>
+    <td><strong>Agentic InfraOps</strong></td>
+    <td>Building AI-powered infrastructure automation with GitHub Copilot agents</td>
+  </tr>
+  <tr>
+    <td>🏗️</td>
+    <td><strong>Azure Landing Zones</strong></td>
+    <td>Designing enterprise-scale architectures for strategic partners</td>
+  </tr>
+  <tr>
+    <td>📚</td>
+    <td><strong>Technical Content</strong></td>
+    <td>Creating workshops, demos, and learning resources for the community</td>
+  </tr>
+  <tr>
+    <td>🎓</td>
+    <td><strong>Partner Enablement</strong></td>
+    <td>Mentoring partners on their Azure and AI journey</td>
+  </tr>
+  <tr>
+    <td>☁️</td>
+    <td><strong>Sovereign Cloud</strong></td>
+    <td>Exploring Azure Local, Edge AI, and compliance architectures</td>
+  </tr>
+</table>
+
+---
+
+## �🛠️ Arsenal of Choice
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -97,32 +144,32 @@ Identity & Access     ███████████████████�
 
 ## 📂 Featured Projects
 
-<table>
-  <tr>
-    <td align="center">
-      <h3>☁️ Azure Architecture</h3>
-      <p>Blueprints and scripts for building things in the cloud</p>
-      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active"/>
-    </td>
-    <td align="center">
-      <h3>🤖 Automation Scripts</h3>
-      <p>Making repetitive tasks disappear with a wave of the virtual wand</p>
-      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>📚 Learning Resources</h3>
-      <p>Sharing knowledge gained from my cloud adventures</p>
-      <img src="https://img.shields.io/badge/Status-Growing-blue?style=for-the-badge" alt="Growing"/>
-    </td>
-    <td align="center">
-      <h3>🎯 Partner Solutions</h3>
-      <p>Real-world implementations and best practices</p>
-      <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Active"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops" />
+  </a>
+  <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jonathan-vella/github-copilot-itpro">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
+  </a>
+  <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
+  </a>
+  <a href="https://github.com/jonathan-vella/xlr8-e2eaisolutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=xlr8-e2eaisolutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="xlr8-e2eaisolutions" />
+  </a>
+</p>
 
 ---
 
@@ -175,6 +222,42 @@ When I'm not architecting in the cloud, you might find me:
 
 ---
 
+<details>
+<summary>🎮 <strong>Click to Unlock Secret Achievement!</strong></summary>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="200" alt="Achievement Unlocked!" />
+</p>
+
+```
+🏆 ACHIEVEMENT UNLOCKED: Curiosity Cloud Cat!
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+    You found the secret section! 
+    
+    Here's a virtual high-five: 🖐️
+    
+    And some cloud architect wisdom:
+    
+    "The cloud is just someone else's computer...
+     ...that you've meticulously architected 
+     with 47 Bicep templates and 3 cups of coffee."
+
+    Fun Easter Eggs Found: 1/??? 👀
+    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<p align="center">
+  <strong>🎉 Congrats! You're officially a certified profile explorer! 🎉</strong>
+</p>
+
+</details>
+
+---
+
 ## 💭 Quote of the Moment
 
 <p align="center">
@@ -196,8 +279,14 @@ When I'm not architecting in the cloud, you might find me:
 
 ## 🐍 Watch My Contribution Snake Eat My Commits!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonathan-vella/jonathan-vella/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonathan-vella/jonathan-vella/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jonathan-vella/jonathan-vella/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonathan-vella/jonathan-vella/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <sub>🐍 <em>This snake automatically updates daily via GitHub Actions!</em></sub>
 </p>
 
 ---
@@ -223,7 +312,7 @@ When I'm not architecting in the cloud, you might find me:
 </p>
 
 <p align="center">
-  <strong>&copy; 2025 Jonathan Vella</strong><br>
+  <strong>&copy; 2026 Jonathan Vella</strong><br>
   <em>Powered by Microsoft Azure ☁️ and an unhealthy obsession with clean architecture 🏗️</em>
 </p>
 
