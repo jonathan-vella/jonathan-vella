@@ -34,6 +34,7 @@
 - [💪 Skills & Expertise](#-skills--expertise)
 - [📂 Featured Projects](#-featured-projects)
 - [📫 Connect with Me](#-connect-with-me)
+- [📝 Latest Posts & Articles](#-latest-posts--articles)
 - [🏅 Certifications](#-certifications)
 - [🎲 Fun Fact](#-fun-fact)
 - [🎮 Secret Achievement](#-click-to-unlock-secret-achievement)
@@ -46,12 +47,12 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonathan-vella&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jonathan-vella&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
-## � GitHub Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonathan-vella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
@@ -64,7 +65,7 @@
 
 ---
 
-## �🚀 Current Mission: Partner Success!
+## 🚀 Current Mission: Partner Success!
 
 My primary directive at Microsoft is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
 
@@ -72,7 +73,7 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 ---
 
-## � What I'm Currently Working On
+## 🔭 What I'm Currently Working On
 
 <table>
   <tr>
@@ -104,7 +105,7 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 
 ---
 
-## �🛠️ Arsenal of Choice
+## 🛠️ Arsenal of Choice
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -189,6 +190,46 @@ Identity & Access     ███████████████████�
 
 <p align="center">
   <em>💼 For professional transmissions and network nodes | 💻 You are currently at the source code</em>
+</p>
+
+---
+
+## 📝 Latest Posts & Articles
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/articles/">
+    <img src="https://img.shields.io/badge/LinkedIn-Read_My_Articles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Articles"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/all/">
+    <img src="https://img.shields.io/badge/LinkedIn-See_All_Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts"/>
+  </a>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">🤖</td>
+    <td><strong>AI & Agentic Infrastructure</strong></td>
+    <td>Insights on building AI-powered cloud solutions</td>
+  </tr>
+  <tr>
+    <td align="center">☁️</td>
+    <td><strong>Azure Architecture</strong></td>
+    <td>Best practices and design patterns for enterprise cloud</td>
+  </tr>
+  <tr>
+    <td align="center">🛡️</td>
+    <td><strong>Cloud Security & Governance</strong></td>
+    <td>Zero Trust, compliance, and Well-Architected insights</td>
+  </tr>
+  <tr>
+    <td align="center">🚀</td>
+    <td><strong>Partner Enablement</strong></td>
+    <td>Helping partners accelerate their Azure journey</td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>👆 <em>Click the badges above to read my latest content on LinkedIn!</em></sub>
 </p>
 
 ---
