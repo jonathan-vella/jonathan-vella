@@ -214,7 +214,7 @@ Identity & Access     ███████████████████�
 ## 🎲 Fun Fact
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Cloud Computing"/>
+  <img src="https://media.giphy.com/media/3o84sK5cgfjdkPCEla/giphy.gif" width="300" alt="Jedi Mind Trick"/>
 </p>
 
 When I'm not architecting in the cloud, you might find me:
@@ -304,11 +304,11 @@ def jonathan_ai_wisdom():
 <br>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="200" alt="Achievement Unlocked!" />
+  <img src="https://media.giphy.com/media/l1Kuh28joKCAqK5vq/giphy.gif" width="300" alt="Achievement Unlocked!" />
 </p>
 
 ```
-🏆 ACHIEVEMENT UNLOCKED: Curiosity Cloud Cat!
+🏆 ACHIEVEMENT UNLOCKED: Jedi Master of the Cloud!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
     You found the secret section!
@@ -319,7 +319,7 @@ def jonathan_ai_wisdom():
 
     "The cloud is just someone else's computer...
      ...that you've meticulously architected
-     with 47 Bicep templates and 3 cups of coffee."
+     with 47 Bicep templates and the power of the Force."
 
     Fun Easter Eggs Found: 1/??? 👀
 
