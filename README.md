@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Jonathan%20Vella&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20Architect%20|%20Azure%20Expert%20|%20Partner%20Success%20Engineer&descAlignY=55&descAlign=50" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=200&section=header&text=Jonathan%20Vella&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Azure%20Jedi%20Master%20|%20Cloud%20Expert%20|%20Tech%20Geek&descAlignY=55&descAlign=50" alt="Header"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Greetings%2C+Digital+Explorer!+%F0%9F%91%8B;Building+Clouds+%E2%98%81%EF%B8%8F+Architecting+Solutions;Azure+Core+Specialist;Partner+Success+Champion!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Greetings%2C+Padawan!+%E2%9C%A8;Architecting+the+Cloud+Galaxy+%E2%98%81%EF%B8%8F;Azure+Expert+%26+Tech+Geek;May+the+Cloud+be+with+you!+%E2%9A%94%EF%B8%8F" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Welcome to my corner of the internet, where I build clouds ☁️, architect solutions 🏗️, and occasionally debate the finer points of Azure Bicep vs. Terraform with my reflection.
+  Welcome to my corner of the holonet, where I build clouds ☁️, architect solutions 🏗️, and occasionally debate the finer points of Azure Bicep vs. Terraform with my astromech droid.
 </p>
 
 <p align="center">
@@ -45,6 +45,12 @@
 ---
 
 ## 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-readme-trophy.vercel.app/?username=jonathan-vella&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🦈_Pull_Shark-x2-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Pull Shark x2"/>
@@ -81,9 +87,9 @@
 
 ## 🚀 Current Mission: Partner Success!
 
-My primary directive at Microsoft is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their guide through the cloud wilderness, armed with technical expertise and a map (that's constantly being updated, of course).
+My primary directive at the Microsoft Jedi Order is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their Jedi Master through the cloud galaxy, armed with technical expertise and a holocron of reference architectures (that's constantly being updated, of course).
 
-I spend my days (and sometimes nights, fueled by questionable amounts of caffeine ☕) diving deep into technical discussions, ensuring our partners can leverage Azure to its fullest potential. I troubleshoot anomalies 👾, strategize deployments, and act as a bridge between partner needs and Microsoft's cloud capabilities.
+I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕) diving deep into technical council meetings, ensuring our partners can leverage the Force of Azure to its fullest potential. I troubleshoot dark side anomalies 👾, strategize hyperspace deployments, and act as a bridge between partner needs and Microsoft's cloud capabilities.
 
 ---
 
@@ -92,28 +98,28 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 <table>
   <tr>
     <td>🤖</td>
-    <td><strong>Agentic InfraOps</strong></td>
-    <td>Building AI-powered infrastructure automation with GitHub Copilot agents</td>
+    <td><strong>AI-Driven InfraOps</strong></td>
+    <td>Automating cloud deployments using GitHub Copilot and custom agents</td>
   </tr>
   <tr>
     <td>🏗️</td>
-    <td><strong>Azure Landing Zones</strong></td>
-    <td>Designing enterprise-scale architectures for strategic partners</td>
+    <td><strong>Enterprise Architecture</strong></td>
+    <td>Architecting scalable Azure Landing Zones for strategic partners</td>
   </tr>
   <tr>
     <td>📚</td>
-    <td><strong>Technical Content</strong></td>
-    <td>Creating workshops, demos, and learning resources for the community</td>
+    <td><strong>Community Enablement</strong></td>
+    <td>Developing hands-on workshops, demos, and technical guides</td>
   </tr>
   <tr>
     <td>🎓</td>
-    <td><strong>Partner Enablement</strong></td>
-    <td>Mentoring partners on their Azure and AI journey</td>
+    <td><strong>Partner Success</strong></td>
+    <td>Guiding partners through complex Azure and AI transformations</td>
   </tr>
   <tr>
     <td>☁️</td>
-    <td><strong>Sovereign Cloud</strong></td>
-    <td>Exploring Azure Local, Edge AI, and compliance architectures</td>
+    <td><strong>Sovereign & Edge Cloud</strong></td>
+    <td>Prototyping solutions with Azure Local and Edge AI technologies</td>
   </tr>
 </table>
 
@@ -122,23 +128,10 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caffein
 ## 🛠️ Arsenal of Choice
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Bicep" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,terraform,powershell,docker,kubernetes,github,vscode&theme=dark" />
+  </a>
 </p>
-
-### Core Competencies
-
-- ☁️ **Azure**: Compute, Networking, Storage, Identity, Kubernetes (AKS), App Services, Databases, Serverless (Functions, Logic Apps), DevOps Tooling, Monitoring, and Security — the foundation for scalable, resilient, and enterprise-grade architectures.
-- 🤝 **Partner Enablement**: Empowering teams and partners to harness Azure effectively through knowledge sharing, solution design, and hands-on guidance.
-- 🗣️ **Technical Leadership**: Translating complex technical concepts into actionable strategies, reference architectures, and best practices that drive business outcomes.
-- 🛡️ **Compliance**: Designing Zero Trust architectures, implementing governance at scale, and ensuring deployments are secure, compliant, and cost-optimized.
-- 📈 **Innovation Accelerator**: Unlock the full potential of Microsoft technologies — from AI and Data to Hybrid Cloud, FinOps, and beyond — driving scalable innovation and sustainable growth.
 
 ---
 
@@ -161,28 +154,25 @@ Identity & Access     ███████████████████�
 
 <p align="center">
   <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" width="600" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/jonathan-vella/github-copilot-itpro">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
   </a>
-  <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
-  </a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
+  </a>
   <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
-  </a>
-  <a href="https://github.com/jonathan-vella/xlr8-e2eaisolutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=xlr8-e2eaisolutions&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="xlr8-e2eaisolutions" />
   </a>
 </p>
 
@@ -198,29 +188,6 @@ Identity & Access     ███████████████████�
     <img src="https://img.shields.io/badge/LinkedIn-See_All_Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts"/>
   </a>
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center">🤖</td>
-    <td><strong>AI & Agentic Infrastructure</strong></td>
-    <td>Insights on building AI-powered cloud solutions</td>
-  </tr>
-  <tr>
-    <td align="center">☁️</td>
-    <td><strong>Azure Architecture</strong></td>
-    <td>Best practices and design patterns for enterprise cloud</td>
-  </tr>
-  <tr>
-    <td align="center">🛡️</td>
-    <td><strong>Cloud Security & Governance</strong></td>
-    <td>Zero Trust, compliance, and Well-Architected insights</td>
-  </tr>
-  <tr>
-    <td align="center">🚀</td>
-    <td><strong>Partner Enablement</strong></td>
-    <td>Helping partners accelerate their Azure journey</td>
-  </tr>
-</table>
 
 <p align="center">
   <sub>👆 <em>Click the badges above to read my latest content on LinkedIn!</em></sub>
@@ -241,7 +208,7 @@ Identity & Access     ███████████████████�
 | ![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github&logoColor=white) | 🤖 |
 
 </div>
-   
+
 ---
 
 ## 🎲 Fun Fact
@@ -254,6 +221,21 @@ When I'm not architecting in the cloud, you might find me:
 - 🎮 Exploring retro video games
 - 🏠 Experimenting with home automation
 - ☕ Trying to convince my coffee machine to run on Azure Functions!
+
+---
+
+## 🕹️ Let's Play Tic-Tac-Toe!
+
+Click on a square to make your move!
+
+|   |   |   |
+|---|---|---|
+| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
+
+<!-- ttt-board-start -->
+<!-- ttt-board-end -->
 
 ---
 
@@ -306,7 +288,7 @@ def jonathan_ai_wisdom():
         "Every manual deployment is a bug waiting to happen",
         "AI agents are not replacing us, they're our new teammates"
     ]
-    
+
     return random.choice(principles) + " ☁️"
 
 # Output: "Bicep > clicking buttons in the portal ☁️"
@@ -329,18 +311,18 @@ def jonathan_ai_wisdom():
 🏆 ACHIEVEMENT UNLOCKED: Curiosity Cloud Cat!
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-    You found the secret section! 
-    
+    You found the secret section!
+
     Here's a virtual high-five: 🖐️
-    
+
     And some cloud architect wisdom:
-    
+
     "The cloud is just someone else's computer...
-     ...that you've meticulously architected 
+     ...that you've meticulously architected
      with 47 Bicep templates and 3 cups of coffee."
 
     Fun Easter Eggs Found: 1/??? 👀
-    
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -355,10 +337,14 @@ def jonathan_ai_wisdom():
 ## 💭 Quote of the Moment
 
 <p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+</p>
+
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </p>
 
-> "Cloud computing is not about saving money, it's about spending money wisely on a platform that allows you to innovate faster."  
+> "Cloud computing is not about saving money, it's about spending money wisely on a platform that allows you to innovate faster."
 > <sub>— Someone Wise (Probably Architecting in the Cloud)</sub>
 
 ---
@@ -367,6 +353,10 @@ def jonathan_ai_wisdom():
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonathan-vella&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=0078D4&line=0078D4&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
 ---

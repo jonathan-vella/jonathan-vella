@@ -1,0 +1,23 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+      - name: Play Tic-Tac-Toe
+        uses: mknic/tic-tac-toe-action@v1.0.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          issue_number: ${{ github.event.issue.number }}
+          issue_title: ${{ github.event.issue.title }}
+          issue_body: ${{ github.event.issue.body }}
+          issue_user: ${{ github.event.issue.user.login }}
+          repository: ${{ github.repository }}
