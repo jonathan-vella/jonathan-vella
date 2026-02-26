@@ -35,7 +35,6 @@
 - [📂 Featured Projects](#-featured-projects)
 - [📝 Latest Posts & Articles](#-latest-posts--articles)
 - [🎲 Fun Fact](#-fun-fact)
-- [🕹️ Let's Play Tic-Tac-Toe!](#-lets-play-tic-tac-toe)
 - [🤖 AI Corner](#-ai-corner-my-digital-philosophy)
 - [💭 Quote of the Moment](#-quote-of-the-moment)
 - [📈 Contribution Graph](#-contribution-graph)
@@ -127,82 +126,107 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕
 ## 🛠️ Arsenal of Choice
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,terraform,powershell,docker,kubernetes,github,vscode&theme=dark" />
-  </a>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
 ---
 
 ## 💪 Skills & Expertise
 
-### Architecture & Platform
-
-<p>
-  <img src="https://img.shields.io/badge/Azure_Architecture-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Azure Architecture" />
-  <img src="https://img.shields.io/badge/Infrastructure_as_Code-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Infrastructure as Code" />
-  <img src="https://img.shields.io/badge/Kubernetes_%26_Containers-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Kubernetes & Containers" />
-  <img src="https://img.shields.io/badge/Networking-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Networking" />
-</p>
-
-### Security & Identity
-
-<p>
-  <img src="https://img.shields.io/badge/Cloud_Security-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Cloud Security" />
-  <img src="https://img.shields.io/badge/Identity_%26_Access-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Identity & Access" />
-</p>
-
-### DevOps & Enablement
-
-<p>
-  <img src="https://img.shields.io/badge/DevOps_%26_Automation-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="DevOps & Automation" />
-  <img src="https://img.shields.io/badge/Partner_Enablement-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Partner Enablement" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ Architecture & Platform</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Azure_Architecture-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Azure Architecture" /><br>
+        <img src="https://img.shields.io/badge/Infrastructure_as_Code-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Infrastructure as Code" /><br>
+        <img src="https://img.shields.io/badge/Kubernetes_%26_Containers-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Kubernetes & Containers" /><br>
+        <img src="https://img.shields.io/badge/Networking-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Networking" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔐 Security, Identity & Enablement</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Cloud_Security-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Cloud Security" /><br>
+        <img src="https://img.shields.io/badge/Identity_%26_Access-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Identity & Access" /><br>
+        <img src="https://img.shields.io/badge/DevOps_%26_Automation-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="DevOps & Automation" /><br>
+        <img src="https://img.shields.io/badge/Partner_Enablement-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Partner Enablement" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" width="600" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
-  </a>
-  <a href="https://github.com/jonathan-vella/github-copilot-itpro">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
-  </a>
-  <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/github-copilot-itpro">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella?tab=repositories">
+        <img src="https://img.shields.io/badge/Explore_All-View_Repositories-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📝 Latest Posts & Articles
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/articles/">
-    <img src="https://img.shields.io/badge/LinkedIn-Read_My_Articles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Articles"/>
-  </a>
-  <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/all/">
-    <img src="https://img.shields.io/badge/LinkedIn-See_All_Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts"/>
-  </a>
-</p>
-
-<p align="center">
-  <sub>👆 <em>Click the badges above to read my latest content on LinkedIn!</em></sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>📰 Articles</h3>
+      <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/articles/">
+        <img src="https://img.shields.io/badge/LinkedIn-Read_My_Articles-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Articles"/>
+      </a>
+      <br><sub>Deep dives, patterns, and architecture notes</sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>📣 Activity Feed</h3>
+      <a href="https://www.linkedin.com/in/jonathanvella/recent-activity/all/">
+        <img src="https://img.shields.io/badge/LinkedIn-See_All_Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Posts"/>
+      </a>
+      <br><sub>Updates, demos, and quick field insights</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -219,43 +243,32 @@ When I'm not architecting in the cloud, you might find me:
 
 ---
 
-## 🕹️ Let's Play Tic-Tac-Toe!
-
-Click on a square to make your move!
-
-|   |   |   |
-|---|---|---|
-| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C0%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
-| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C1%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
-| <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C0&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C1&body=Just+push+%27Submit+new+issue%27.">⬜</a> | <a href="https://github.com/jonathan-vella/jonathan-vella/issues/new?title=ttt%7C2%7C2&body=Just+push+%27Submit+new+issue%27.">⬜</a> |
-
-<!-- ttt-board-start -->
-<!-- ttt-board-end -->
-
----
-
 ## 🤖 AI Corner: My Digital Philosophy
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   🧠 "I don't replace infrastructure engineers with AI...      │
-│       I give them AI superpowers!"                              │
-│                                                                 │
-│   ⚡ Current AI Stack:                                          │
-│      ├── GitHub Copilot (my coding companion)                   │
-│      ├── Azure OpenAI (for the heavy thinking)                  │
-│      ├── Custom Copilot Agents (my digital minions)             │
-│      └── MCP Servers (because agents need tools too)            │
-│                                                                 │
-│   🎯 2026 AI Goals:                                             │
-│      □ Deploy 100+ agentic workflows                            │
-│      □ Train partners on AI-powered IaC                         │
-│      □ Build the laziest (most automated) infrastructure ever   │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
+╔═════════════════════════════════════════════════════════════════╗
+║  AI_TERMINAL.EXE  v2026.02                                     ║
+╠═════════════════════════════════════════════════════════════════╣
+║  > boot message                                                 ║
+║    "I don't replace infrastructure engineers with AI...         ║
+║     I give them AI superpowers."                               ║
+║                                                                 ║
+║  > load stack                                                   ║
+║    [OK] GitHub Copilot                                          ║
+║    [OK] Azure OpenAI                                            ║
+║    [OK] Custom Copilot Agents                                   ║
+║    [OK] MCP Servers                                              ║
+║                                                                 ║
+║  > mission_2026.todo                                            ║
+║    [ ] Deploy 100+ agentic workflows                            ║
+║    [ ] Train partners on AI-powered IaC                         ║
+║    [ ] Maximize automation, minimize manual drift               ║
+║                                                                 ║
+║  > status                                                       ║
+║    READY ▓▓▓▓▓▓▓▓▓▓ 100%                                        ║
+╚═════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
