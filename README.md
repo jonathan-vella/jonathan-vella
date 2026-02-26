@@ -34,10 +34,9 @@
 - [💪 Skills & Expertise](#-skills--expertise)
 - [📂 Featured Projects](#-featured-projects)
 - [📝 Latest Posts & Articles](#-latest-posts--articles)
-- [🏅 Certifications](#-certifications)
 - [🎲 Fun Fact](#-fun-fact)
+- [🕹️ Let's Play Tic-Tac-Toe!](#-lets-play-tic-tac-toe)
 - [🤖 AI Corner](#-ai-corner-my-digital-philosophy)
-- [🎮 Secret Achievement](#-click-to-unlock-secret-achievement)
 - [💭 Quote of the Moment](#-quote-of-the-moment)
 - [📈 Contribution Graph](#-contribution-graph)
 - [🐍 Watch My Contribution Snake Eat My Commits!](#-watch-my-contribution-snake-eat-my-commits)
@@ -75,12 +74,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathan-vella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
+  <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
 </p>
 
 ---
@@ -137,16 +136,28 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕
 
 ## 💪 Skills & Expertise
 
-```text
-Azure Architecture    ████████████████████░   95%
-Cloud Security        ███████████████████░░   90%
-Infrastructure as Code████████████████████░   95%
-Partner Enablement    ████████████████████░   95%
-DevOps & Automation   ██████████████████░░░   85%
-Kubernetes & Containers███████████████████░░   90%
-Networking            ██████████████████░░░   85%
-Identity & Access     ████████████████████░   90%
-```
+### Architecture & Platform
+
+<p>
+  <img src="https://img.shields.io/badge/Azure_Architecture-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Azure Architecture" />
+  <img src="https://img.shields.io/badge/Infrastructure_as_Code-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Infrastructure as Code" />
+  <img src="https://img.shields.io/badge/Kubernetes_%26_Containers-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Kubernetes & Containers" />
+  <img src="https://img.shields.io/badge/Networking-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Networking" />
+</p>
+
+### Security & Identity
+
+<p>
+  <img src="https://img.shields.io/badge/Cloud_Security-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/Identity_%26_Access-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="Identity & Access" />
+</p>
+
+### DevOps & Enablement
+
+<p>
+  <img src="https://img.shields.io/badge/DevOps_%26_Automation-Advanced-4C9AFF?style=for-the-badge&labelColor=1a1a2e" alt="DevOps & Automation" />
+  <img src="https://img.shields.io/badge/Partner_Enablement-Expert-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Partner Enablement" />
+</p>
 
 ---
 
@@ -154,25 +165,25 @@ Identity & Access     ███████████████████�
 
 <p align="center">
   <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" width="600" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" width="600" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
   </a>
   <a href="https://github.com/jonathan-vella/github-copilot-itpro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
   </a>
   <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
   </a>
 </p>
 
@@ -192,22 +203,6 @@ Identity & Access     ███████████████████�
 <p align="center">
   <sub>👆 <em>Click the badges above to read my latest content on LinkedIn!</em></sub>
 </p>
-
----
-
-## 🏅 Certifications
-
-<div align="center">
-
-| Certification | Badge |
-|---------------|-------|
-| ![Azure](https://img.shields.io/badge/Azure-Solutions_Architect_Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | 🏆 |
-| ![Azure](https://img.shields.io/badge/Azure-Security_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | 🛡️ |
-| ![Azure](https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | ⚙️ |
-| ![Azure](https://img.shields.io/badge/Azure-Identity_and_Access_Administrator-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) | 🔐 |
-| ![GitHub](https://img.shields.io/badge/GitHub-Copilot-181717?style=for-the-badge&logo=github&logoColor=white) | 🤖 |
-
-</div>
 
 ---
 
