@@ -73,12 +73,20 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
+  </picture>
   <img src="https://streak-stats.demolab.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=default&hide_border=true&title_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
+  </picture>
 </p>
 
 ---
@@ -170,31 +178,31 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true" alt="azure-agentic-infraops" />
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true&description_lines_count=2" alt="azure-agentic-infraops" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-agentic-infraops-accelerator" />
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-agentic-infraops-accelerator" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/jonathan-vella/github-copilot-itpro">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="github-copilot-itpro" />
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="github-copilot-itpro" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="azure-arc-enabled-sql-server" />
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-arc-enabled-sql-server" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="microsoft-sovereign-cloud-brain-trek" />
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="microsoft-sovereign-cloud-brain-trek" />
       </a>
     </td>
     <td width="50%" align="center">
