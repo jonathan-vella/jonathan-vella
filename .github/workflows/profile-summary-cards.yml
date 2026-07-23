@@ -1,0 +1,32 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    # Regenerate the summary cards every day at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses the built-in token (no PAT needed) together with the
+          # contents: write permission above so the cards can be pushed back.
+          # If a run ever fails with "Resource not accessible", create a classic
+          # PAT (public_repo + read:user), store it as secret SUMMARY_GITHUB_TOKEN,
+          # and change this to: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: "2"
+          EXCLUDE_REPOS: "jonathan-vella,github-readme-stats"
+          THEME: "tokyonight"
+          AUTO_PUSH: true

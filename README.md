@@ -48,20 +48,17 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=default&hide_border=true&title_color=0078D4&icon_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api?username=jonathan-vella&show_icons=true&include_all_commits=true&rank_icon=percentile&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=0078D4" alt="GitHub Stats" height="165" />
-  </picture>
-  <img src="https://streak-stats.demolab.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="165" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=jonathan-vella&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=FF6B6B&currStreakLabel=0078D4" alt="GitHub Streak" height="200" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=default&hide_border=true&title_color=0078D4&text_color=24292F&bg_color=FFFFFF" />
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/top-langs/?username=jonathan-vella&layout=donut&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats,jonathan-vella&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4" alt="Top Languages" />
-  </picture>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repository" height="200" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commits" height="200" />
+</p>
+
+<p align="center">
+  <sub>📊 <em>Auto-generated daily by GitHub Actions — self-hosted static SVGs, no external card service required.</em></sub>
 </p>
 
 ---
@@ -147,35 +144,35 @@ My mission at the Microsoft Jedi Order: team up with strategic partners and help
 
 ## 📂 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/jonathan-vella/apex">
-    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=apex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true&description_lines_count=2" alt="apex" />
-  </a>
-</p>
-
 <table>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/apex-accelerator">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=apex-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="apex-accelerator" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-arc-enabled-sql-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-arc-enabled-sql-server" />
-      </a>
+    <td colspan="2" valign="top">
+      <h3>🚀 <a href="https://github.com/jonathan-vella/apex">apex</a> &nbsp;<img src="https://img.shields.io/github/stars/jonathan-vella/apex?style=flat-square&logo=github&label=&color=0078D4&labelColor=1a1a2e" alt="stars" /></h3>
+      Turns Azure platform-engineering requirements into verified, deploy-ready IaC — powered by GitHub Copilot agents, real-time pricing, and built-in compliance.
+      <br /><br />
+      <img src="https://img.shields.io/github/languages/top/jonathan-vella/apex?style=flat-square&color=0078D4&labelColor=1a1a2e" alt="top language" />
+      <img src="https://img.shields.io/github/last-commit/jonathan-vella/apex?style=flat-square&color=0078D4&labelColor=1a1a2e" alt="last commit" />
+      <img src="https://img.shields.io/github/forks/jonathan-vella/apex?style=flat-square&logo=github&color=0078D4&labelColor=1a1a2e" alt="forks" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=microsoft-sovereign-cloud-brain-trek&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="microsoft-sovereign-cloud-brain-trek" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>🧰 <a href="https://github.com/jonathan-vella/apex-accelerator">apex-accelerator</a> &nbsp;<img src="https://img.shields.io/github/stars/jonathan-vella/apex-accelerator?style=flat-square&logo=github&label=&color=0078D4&labelColor=1a1a2e" alt="stars" /></h4>
+      Starter template for APEX — custom Copilot agents, an Azure Pricing MCP server, and an orchestrated multi-step workflow.
     </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/azure-smb-rf">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-smb-rf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-smb-rf" />
-      </a>
+    <td valign="top" width="50%">
+      <h4>🗄️ <a href="https://github.com/jonathan-vella/azure-arc-enabled-sql-server">azure-arc-enabled-sql-server</a> &nbsp;<img src="https://img.shields.io/github/stars/jonathan-vella/azure-arc-enabled-sql-server?style=flat-square&logo=github&label=&color=0078D4&labelColor=1a1a2e" alt="stars" /></h4>
+      Tools, scripts, and guidance for SQL Server enabled by Azure Arc.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🛡️ <a href="https://github.com/jonathan-vella/microsoft-sovereign-cloud-brain-trek">microsoft-sovereign-cloud-brain-trek</a> &nbsp;<img src="https://img.shields.io/github/stars/jonathan-vella/microsoft-sovereign-cloud-brain-trek?style=flat-square&logo=github&label=&color=0078D4&labelColor=1a1a2e" alt="stars" /></h4>
+      Master Sovereign Cloud, Azure Local, and Edge AI — a learning journey for architects and solutions professionals.
+    </td>
+    <td valign="top" width="50%">
+      <h4>🏗️ <a href="https://github.com/jonathan-vella/azure-smb-rf">azure-smb-rf</a> &nbsp;<img src="https://img.shields.io/github/stars/jonathan-vella/azure-smb-rf?style=flat-square&logo=github&label=&color=0078D4&labelColor=1a1a2e" alt="stars" /></h4>
+      Azure accelerator for SMB migrations — policy-enforced, security-hardened, deployable with Bicep + AVM.
     </td>
   </tr>
   <tr>
