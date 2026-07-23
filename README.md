@@ -39,12 +39,12 @@
 
 ```mermaid
 flowchart LR
-    I([🗣️ Describe intent]) --> R[📋 Requirements]
-    R --> A[🏗️ Architecture<br/>WAF + Cost]
-    A --> P[🧩 IaC Plan<br/>+ Governance]
-    P --> G[⚙️ Bicep / Terraform<br/>codegen]
-    G --> D[🚀 Deploy]
-    D --> B[📄 As-Built docs]
+    I([Describe intent]) --> R[Requirements]
+    R --> A[Architecture<br/>WAF + Cost]
+    A --> P[IaC Plan<br/>+ Governance]
+    P --> G[Bicep / Terraform<br/>codegen]
+    G --> D[Deploy]
+    D --> B[As-Built docs]
     classDef step fill:#161b22,stroke:#0078d4,color:#f0f6fc;
     class I,R,A,P,G,D,B step;
 ```
