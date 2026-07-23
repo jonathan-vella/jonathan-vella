@@ -24,24 +24,6 @@
 
 ---
 
-## 📑 Table of Contents
-
-- [🏆 GitHub Achievements](#-github-achievements)
-- [📊 GitHub Stats & Activity](#-github-stats--activity)
-- [🚀 Current Mission: Partner Success!](#-current-mission-partner-success)
-- [🔭 What I'm Currently Working On](#-what-im-currently-working-on)
-- [🛠️ Arsenal of Choice](#-arsenal-of-choice)
-- [💪 Skills & Expertise](#-skills--expertise)
-- [📂 Featured Projects](#-featured-projects)
-- [📝 Latest Posts & Articles](#-latest-posts--articles)
-- [🎲 Fun Fact](#-fun-fact)
-- [🤖 AI Corner](#-ai-corner-my-digital-philosophy)
-- [💭 Quote of the Moment](#-quote-of-the-moment)
-- [📈 Contribution Graph](#-contribution-graph)
-- [🐍 Watch My Contribution Snake Eat My Commits!](#-watch-my-contribution-snake-eat-my-commits)
-
----
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
@@ -55,13 +37,6 @@
   <img src="https://img.shields.io/badge/⭐_Starstruck-Unlocked-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Starstruck"/>
   <img src="https://img.shields.io/badge/🎯_YOLO-Unlocked-FF6B6B?style=for-the-badge&labelColor=1a1a2e" alt="YOLO"/>
   <img src="https://img.shields.io/badge/👯_Pair_Extraordinaire-Unlocked-9B59B6?style=for-the-badge&labelColor=1a1a2e" alt="Pair Extraordinaire"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🔑_Commits-1000+-28A745?style=for-the-badge&labelColor=1a1a2e" alt="Commits"/>
-  <img src="https://img.shields.io/badge/📦_Repositories-75+-0078D4?style=for-the-badge&labelColor=1a1a2e" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/👥_Followers-84-E91E63?style=for-the-badge&labelColor=1a1a2e" alt="Followers"/>
-  <img src="https://img.shields.io/badge/⭐_Stars_Earned-80+-FFD700?style=for-the-badge&labelColor=1a1a2e" alt="Stars"/>
 </p>
 
 <p align="center">
@@ -93,9 +68,7 @@
 
 ## 🚀 Current Mission: Partner Success!
 
-My primary directive at the Microsoft Jedi Order is to team up with our strategic partners and help them unlock the immense power of **Microsoft Azure**. Think of me as their Jedi Master through the cloud galaxy, armed with technical expertise and a holocron of reference architectures (that's constantly being updated, of course).
-
-I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕) diving deep into technical council meetings, ensuring our partners can leverage the Force of Azure to its fullest potential. I troubleshoot dark side anomalies 👾, strategize hyperspace deployments, and act as a bridge between partner needs and Microsoft's cloud capabilities.
+My mission at the Microsoft Jedi Order: team up with strategic partners and help them unlock the full power of **Microsoft Azure**. I'm the bridge between partner needs and Microsoft's cloud capabilities — troubleshooting dark-side anomalies 👾, strategizing hyperspace deployments, and maintaining a constantly-updated holocron of reference architectures. Fueled by questionable amounts of caf ☕.
 
 ---
 
@@ -174,23 +147,17 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕
 
 ## 📂 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/jonathan-vella/apex">
+    <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=apex&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true&description_lines_count=2" alt="apex" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/azure-agentic-infraops">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&show_owner=true&description_lines_count=2" alt="azure-agentic-infraops" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/azure-agentic-infraops-accelerator">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-agentic-infraops-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-agentic-infraops-accelerator" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/jonathan-vella/github-copilot-itpro">
-        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=github-copilot-itpro&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="github-copilot-itpro" />
+      <a href="https://github.com/jonathan-vella/apex-accelerator">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=apex-accelerator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="apex-accelerator" />
       </a>
     </td>
     <td width="50%" align="center">
@@ -206,6 +173,13 @@ I spend my days (and sometimes nights, fueled by questionable amounts of caf ☕
       </a>
     </td>
     <td width="50%" align="center">
+      <a href="https://github.com/jonathan-vella/azure-smb-rf">
+        <img src="https://github-readme-stats-opal-omega-36.vercel.app/api/pin/?username=jonathan-vella&repo=azure-smb-rf&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&description_lines_count=2" alt="azure-smb-rf" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <a href="https://github.com/jonathan-vella?tab=repositories">
         <img src="https://img.shields.io/badge/Explore_All-View_Repositories-0078D4?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" />
       </a>
@@ -351,14 +325,6 @@ def jonathan_ai_wisdom():
 ---
 
 ## 💭 Quote of the Moment
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
 
 > "Cloud computing is not about saving money, it's about spending money wisely on a platform that allows you to innovate faster."
 > <sub>— Someone Wise (Probably Architecting in the Cloud)</sub>
