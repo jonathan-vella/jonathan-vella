@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">APEX live demo: from infrastructure brief to governed Azure delivery</title>
+  <desc id="desc">A visual summary of the Il-Pastizzeria ta' Mario APEX demo, covering requirements, architecture, governance, adversarial review, code generation, deployment, and as-built documentation.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#101d2f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0078d4"/>
+      <stop offset="1" stop-color="#58a6ff"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity=".28"/>
+    </filter>
+    <style>
+      text { font-family: "Segoe UI", Arial, sans-serif; }
+      .muted { fill: #8b949e; }
+      .body { fill: #c9d1d9; }
+      .bright { fill: #f0f6fc; }
+      .blue { fill: #58a6ff; }
+      .green { fill: #3fb950; }
+      .label { font-size: 13px; font-weight: 700; letter-spacing: 1.5px; }
+      .small { font-size: 15px; }
+      .metric { font-size: 24px; font-weight: 700; }
+      .card-title { font-size: 18px; font-weight: 700; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="630" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="628" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="32" cy="28" r="6" fill="#f85149"/>
+  <circle cx="52" cy="28" r="6" fill="#d29922"/>
+  <circle cx="72" cy="28" r="6" fill="#3fb950"/>
+  <text x="100" y="34" class="muted small">apexops.pro/demo</text>
+
+  <text x="48" y="85" class="blue label">LIVE 30-MINUTE DEMO</text>
+  <text x="48" y="120" class="bright" font-size="29" font-weight="700">From a business brief to governed Azure delivery</text>
+  <rect x="922" y="72" width="230" height="42" rx="21" fill="#132d46" stroke="#0078d4"/>
+  <text x="1037" y="99" class="blue small" text-anchor="middle" font-weight="700">BICEP + AVM TRACK</text>
+
+  <g filter="url(#shadow)">
+    <rect x="48" y="148" width="1104" height="82" rx="12" fill="#161b22" stroke="#30363d"/>
+  </g>
+  <text x="70" y="176" class="muted label">INFRASTRUCTURE INTENT</text>
+  <text x="70" y="207" class="bright" font-size="19">A Maltese catering outlet needs a secure online ordering app for pastizzi, Cisk, and Kinnie.</text>
+  <text x="1108" y="177" class="green small" text-anchor="end">Cash on delivery</text>
+  <text x="1108" y="207" class="body small" text-anchor="end">GDPR | EUR 100-500/mo</text>
+
+  <g>
+    <rect x="48" y="252" width="1104" height="62" rx="12" fill="#0f2538" stroke="#1f6feb"/>
+    <path d="M72 283 H1128" stroke="url(#accent)" stroke-width="3" opacity=".7"/>
+    <g class="bright small" font-weight="600" text-anchor="middle">
+      <text x="112" y="289">Requirements</text>
+      <text x="273" y="289">Architecture</text>
+      <text x="434" y="289">Governance</text>
+      <text x="595" y="289">IaC plan</text>
+      <text x="756" y="289">Code + validate</text>
+      <text x="917" y="289">Deploy</text>
+      <text x="1078" y="289">As-built</text>
+    </g>
+  </g>
+
+  <g transform="translate(48 340)">
+    <rect width="258" height="220" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="31" class="blue label">REQUIREMENTS</text>
+    <text x="20" y="69" class="bright metric">EUR 100-500</text>
+    <text x="20" y="92" class="muted small">monthly budget</text>
+    <text x="20" y="132" class="body small">Business + technical scope</text>
+    <text x="20" y="158" class="body small">GDPR and security needs</text>
+    <text x="20" y="184" class="body small">Budget and scaling bounds</text>
+  </g>
+
+  <g transform="translate(330 340)">
+    <rect width="258" height="220" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="31" class="blue label">ARCHITECTURE</text>
+    <text x="20" y="69" class="bright metric">~$155 / month</text>
+    <text x="20" y="92" class="muted small">estimated Azure cost</text>
+    <text x="20" y="132" class="body small">App Service + Table Storage</text>
+    <text x="20" y="158" class="body small">WAF trade-off assessment</text>
+    <text x="20" y="184" class="body small">ADRs and cost breakdown</text>
+  </g>
+
+  <g transform="translate(612 340)">
+    <rect width="258" height="220" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="31" class="blue label">TRUST + GOVERNANCE</text>
+    <text x="20" y="69" class="bright metric">21 policies</text>
+    <text x="20" y="92" class="muted small">discovered live via Azure REST</text>
+    <text x="20" y="132" class="body small">9-tag deny blocker caught</text>
+    <text x="20" y="158" class="body small">4 adversarial reviews</text>
+    <text x="20" y="184" class="body small">1 critical mismatch found</text>
+  </g>
+
+  <g transform="translate(894 340)">
+    <rect width="258" height="220" rx="12" fill="#161b22" stroke="#30363d"/>
+    <text x="20" y="31" class="blue label">VALIDATED DELIVERY</text>
+    <text x="20" y="69" class="green metric">12 resources</text>
+    <text x="20" y="92" class="muted small">provisioned successfully</text>
+    <text x="20" y="132" class="body small">10 AVM Bicep modules</text>
+    <text x="20" y="158" class="body small">Build + lint + security pass</text>
+    <text x="20" y="184" class="body small">Deployed in 5 minutes</text>
+  </g>
+
+  <text x="48" y="603" class="muted small">Il-Pastizzeria ta' Mario demo</text>
+  <text x="1152" y="603" class="bright small" text-anchor="end" font-weight="700">AI prepares. Humans decide.</text>
+</svg>
